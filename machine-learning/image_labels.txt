@@ -1,0 +1,6 @@
+c3.jpeg: cat
+d4.jpg: cat
+d2.jpg: dog
+d1.jpeg: dog
+c4.jpg: cat
+c5.jpg: dog
